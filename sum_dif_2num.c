@@ -4,9 +4,7 @@
 #include <stdlib.h>
 
 int main()
-{
-	
-
+{	
     int a, b;
     float A, B;
 
