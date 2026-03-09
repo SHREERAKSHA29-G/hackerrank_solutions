@@ -16,8 +16,6 @@ fgets(sen, 100, stdin);
 printf("%c\n",ch);
 printf("%s\n",str);
 printf("%s",sen);
-
-    
         
     return 0;
 }
